@@ -1,0 +1,46 @@
+body{
+    padding: 22px;
+     background-image: linear-gradient(white,#8b008b);
+    padding-bottom: 64px;
+    
+    
+}
+
+#minhasDivs{
+    padding-top:0%;
+    text-align: center;
+    justify-content: center;
+}
+
+.a{
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.a input{
+    border-radius: 5px;
+    background-color: aliceblue;
+}
+
+.bt{
+    padding-top: 10px;
+    padding-left: 70px;
+    
+}
+
+.botao{
+    background-color: antiquewhite;
+    
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+
+.imagem img{
+    padding-left: 450px;
+    
+    width: 500px;
+    height: 450px;
+
+}
